@@ -1,8 +1,8 @@
 {
 "MyAds": {
 "AppID": "oL7XMmubP5TlJrlVzSBemXHUR4Ms_l8dQc4wHGo1H03ObvSVqAX5TEfpVzgyf_HoZ4FQ4kVWPXd8m1HeCk8btZ",
-"freeup1": "1111111111111111",
-"freeup2": "1111111111111111",
+"freeup1": "448b741b56ed883d",
+"freeup2": "5ed198f21d7326af",
 "freeup3": "1111111111111111",
 "freeup4": "1111111111111111",
 "freeup5": "1111111111111111"
