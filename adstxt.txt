@@ -3,8 +3,8 @@
     "AppID": "ca-app-pub-6391606990216604~3873151426",
     "InterstitialNL": "ca-app-pub-3940256099942544/1033173712",
      "clickCount": "1",
-     "Timer":"1500",
-     "ALreadyClick":"true"
+     "Timer":"3000",
+     "ALreadyClick":"false"
 
   }
 }
